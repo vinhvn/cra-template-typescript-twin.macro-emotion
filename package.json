@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-typescript-twin.macro-emotion",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "tailwindcss",
+    "twin.macro",
+    "emotion"
+  ],
+  "description": "A custom typescript/twin.macro/emotion template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinhvn/cra-template-typescript-twin.macro-emotion.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/vinhvn/cra-template-typescript-twin.macro-emotion/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
